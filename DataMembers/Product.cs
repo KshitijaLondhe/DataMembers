@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+/*3. Create Product class, add code, name, price . Accept product details, 
+     if price >1000 give 10 % discount on product . & display discounted price.
+*/
 
 namespace DataMembers
 {

@@ -43,14 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdditionMethodOverloading.cs" />
     <Compile Include="Bank.cs" />
     <Compile Include="Book.cs" />
+    <Compile Include="BookProperties.cs" />
     <Compile Include="Date.cs" />
+    <Compile Include="DateAutoProperties.cs" />
+    <Compile Include="DateProperties.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeProperties.cs" />
     <Compile Include="Product.cs" />
+    <Compile Include="ProductProperties.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticStudent.cs" />
     <Compile Include="Student.cs" />
+    <Compile Include="StudentProperties.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

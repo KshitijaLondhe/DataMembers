@@ -13,6 +13,8 @@ namespace DataMembers
         //method for assigning values to data members
         public void AcceptDate(int dd, string mm, int yy) 
         {
+            // assignment done from right to left
+
             day = dd;
             month =mm;
             year = yy;
